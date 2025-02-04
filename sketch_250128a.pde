@@ -1,3 +1,5 @@
+//E1: Color y Forma
+//Gabriela angel (202410096)
 //lienzo 
 void setup() {
   size (500, 500);
@@ -43,9 +45,5 @@ void draw (){
   //nariz
   fill(#EA4796);
   triangle(0,40,-20,20,20,20);
-  
-  //orejas de dentro
-  triangle(-100,-80,-150,-100,50,-10);
-  
     
 }
